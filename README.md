@@ -7,7 +7,7 @@ Bem-vindo ao repositório do Grupo Azul!!
 Aqui estão os membros do nosso grupo:
 
 1. **Laís Biazotto** - Líder/Desenvolvedora.
-2. **João Cavenaghi** -Desenvolvedor.
+2. **João Pedro Cavenaghi** -Desenvolvedor.
 3. **Pedro Donetti** - Desenvolvedor.
 4. **Beatriz Quieroz** - Desenvolvedora.
 5. **Pedro Luque** - Desenvolvedor.
